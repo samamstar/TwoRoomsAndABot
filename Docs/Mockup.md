@@ -19,8 +19,10 @@
 - Room 1
 - Room 2
 - Debugger
+- Player 1-30
+- Player
 
-It would be nice to manage leaders as a role, but that would be visible to other players so I'll make do w/ a pinned message
+By splitting each player into their own role, it allows for greater granularity of command permissions
 
 ## Game flow
 Rounds will be divided into 3 sections:
